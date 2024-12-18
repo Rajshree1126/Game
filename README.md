@@ -1,0 +1,2 @@
+# Game
+ Embark on an exciting journey in this Unity-powered adventure where your goal is to navigate from one point to another while overcoming challenging obstacles. Test your reflexes as you dodge, weave, and strategize to avoid touching the hurdles in your path. Every collision adds to your score, keeping you on your toes as you strive for a flawless run. Simple to play yet tough to master, this game promises hours of fun and competition!
